@@ -1,6 +1,6 @@
 package main
 
-import "github.com/jmau111/good/cli/cmd"
+import "github.com/jmau111-org/good/cli/cmd"
 
 //----------------------------------------------------
 // Good -- by Julien Maury
