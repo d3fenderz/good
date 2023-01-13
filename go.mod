@@ -1,4 +1,4 @@
-module github.com/jmau111/good
+module github.com/jmau111-org/good
 
 require (
 	github.com/MarinX/keylogger v0.0.0-20210528193429-a54d7834cc1a
