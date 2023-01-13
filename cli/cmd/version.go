@@ -3,7 +3,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/jmau111/good/libgood"
+	"github.com/jmau111-org/good/libgood"
 	"github.com/spf13/cobra"
 )
 

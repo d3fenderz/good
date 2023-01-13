@@ -3,7 +3,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/jmau111/good/helpers"
+	"github.com/jmau111-org/good/helpers"
 	"github.com/spf13/cobra"
 )
 
