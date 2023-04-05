@@ -3,7 +3,7 @@ module github.com/jmau111-org/good
 require (
 	github.com/MarinX/keylogger v0.0.0-20210528193429-a54d7834cc1a
 	github.com/jaypipes/ghw v0.10.0
-	github.com/spf13/cobra v1.6.1
+	github.com/spf13/cobra v1.7.0
 	golang.org/x/sync v0.1.0
 )
 
