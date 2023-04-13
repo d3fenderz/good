@@ -50,7 +50,7 @@ _N.B.: Many commands are just wrappers for utils provided by the [ghw package](h
 ## Installation
 
 ```
-go install github.com/jmau111-org/good@latest
+go install github.com/d3fenderz/good@latest
 ```
 
 ## Help
